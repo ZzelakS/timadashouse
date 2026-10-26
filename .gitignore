@@ -6,3 +6,5 @@ dist/
 !.env.server.example
 .DS_Store
 work/
+.vercel
+.env*

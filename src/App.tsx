@@ -224,10 +224,30 @@ function Layout({ children }: { children: React.ReactNode }) {
   );
 }
 const pillars = [
-  ["Braiding", "Precision in every part. Beauty in every braid.", "braiding"],
-  ["Lash Artistry", "Soft, full, or dramatic — entirely yours.", "lash"],
-  ["Ombré Brows", "The art of beautifully defined brows.", "brows"],
-  ["Lip Blush", "Your natural beauty, exquisitely enhanced.", "lips"],
+  [
+    "Braiding",
+    "Precision in every part. Beauty in every braid.",
+    "braiding",
+    "Knotless Braids",
+  ],
+  [
+    "Lash Artistry",
+    "Soft, full, or dramatic — entirely yours.",
+    "lash",
+    "Lash Extensions",
+  ],
+  [
+    "Ombré Brows",
+    "The art of beautifully defined brows.",
+    "brows",
+    "Ombré Brows",
+  ],
+  [
+    "Lip Blush",
+    "Your natural beauty, exquisitely enhanced.",
+    "lips",
+    "Lip Blush",
+  ],
 ];
 const heroSlides = [
   {
@@ -383,8 +403,12 @@ export function Home() {
             <em>One beautiful you.</em>
           </h2>
           <div className="pillar-grid">
-            {pillars.map(([title, desc, cls], i) => (
-              <a key={title} href="#catalog" className={"pillar " + cls}>
+            {pillars.map(([title, desc, cls, category], i) => (
+              <a
+                key={title}
+                href={"#" + category.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
+                className={"pillar " + cls}
+              >
                 <span>0{i + 1} / OUR SPECIALTIES</span>
                 <div className="pillar-content">
                   <h3>{title}</h3>
