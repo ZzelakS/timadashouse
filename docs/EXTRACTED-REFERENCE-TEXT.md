@@ -110,7 +110,7 @@ Section: /policies → CONSENT POLICY.
 
 CONSENT POLICY.
 
-For all permanent makeup procedures, a consent form must be completed. Please bring a valid photo ID— Siren Beauty Bar will need a copy of it for our records. Your information will not be shared. If you are a minor, an adult must accompany you and bring a valid ID. Please be sure to answer all questions regarding health background prior to receiving services. Any pictures and videos taken during the procedure will be used for our records and social media marketing. You can opt out of using your pictures for use on social media. Please let us know at your appointment.
+For all permanent makeup procedures, a consent form must be completed. Please bring a valid photo ID— Timadas House will need a copy of it for our records. Your information will not be shared. If you are a minor, an adult must accompany you and bring a valid ID. Please be sure to answer all questions regarding health background prior to receiving services. Any pictures and videos taken during the procedure will be used for our records and social media marketing. You can opt out of using your pictures for use on social media. Please let us know at your appointment.
 
 ---
 
@@ -140,7 +140,7 @@ Section: /pmu-care → CLIENT CANDIDACY + CONTRAINDICATIONS
 
 CLIENT CANDIDACY + CONTRAINDICATIONS
 
-SIREN BEAUTY BAR
+Timadas House
 
 Who can get this procedure done?
 
@@ -175,7 +175,7 @@ Section: /pmu-care → CLIENT PREP
 
 CLIENT PREP
 
-SIREN BEAUTY BAR
+Timadas House
 
 It is important that every client understands how to prepare for their appointment and what may affect healing. Include your current pre-care instructions on your website and booking confirmations, and send reminders before the appointment.
 
@@ -204,7 +204,7 @@ Section: /pmu-care → WHAT TO EXPECT
 
 WHAT TO EXPECT
 
-SIREN BEAUTY BAR
+Timadas House
 
 What your client should expect during the healing process:
 
@@ -236,7 +236,7 @@ Section: /pmu-care → FREQUENTLY ASKED QUESTIONS
 
 FREQUENTLY ASKED QUESTIONS
 
-SIREN BEAUTY BAR
+Timadas House
 
 IS IT SAFE?
 
@@ -262,7 +262,7 @@ Section: /pmu-care → FREQUENTLY ASKED QUESTIONS
 
 FREQUENTLY ASKED QUESTIONS
 
-SIREN BEAUTY BAR
+Timadas House
 
 DOES IT HURT?
 

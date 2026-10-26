@@ -18,7 +18,7 @@ export const imagePolicies = [
   },
   {
     title: "CONSENT POLICY.",
-    text: "For all permanent makeup procedures, a consent form must be completed. Please bring a valid photo ID— Siren Beauty Bar will need a copy of it for our records. Your information will not be shared. If you are a minor, an adult must accompany you and bring a valid ID. Please be sure to answer all questions regarding health background prior to receiving services. Any pictures and videos taken during the procedure will be used for our records and social media marketing. You can opt out of using your pictures for use on social media. Please let us know at your appointment.",
+    text: "For all permanent makeup procedures, a consent form must be completed. Please bring a valid photo ID— Timadas House will need a copy of it for our records. Your information will not be shared. If you are a minor, an adult must accompany you and bring a valid ID. Please be sure to answer all questions regarding health background prior to receiving services. Any pictures and videos taken during the procedure will be used for our records and social media marketing. You can opt out of using your pictures for use on social media. Please let us know at your appointment.",
   },
   {
     title: "REFUND POLICY.",

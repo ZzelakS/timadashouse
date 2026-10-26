@@ -2,7 +2,7 @@
 export const pmuDocuments = [
   {
     title: "CLIENT CANDIDACY + CONTRAINDICATIONS",
-    text: `SIREN BEAUTY BAR
+    text: `Timadas House
 
 Who can get this procedure done?
 
@@ -31,7 +31,7 @@ HOW TO PREPARE FOR YOUR APPOINTMENT?
   },
   {
     title: "CLIENT PREP",
-    text: `SIREN BEAUTY BAR
+    text: `Timadas House
 
 It is important that every client understands how to prepare for their appointment and what may affect healing. Include your current pre-care instructions on your website and booking confirmations, and send reminders before the appointment.
 
@@ -54,7 +54,7 @@ Be sure to include all of these preparations on your website and booking confirm
   },
   {
     title: "WHAT TO EXPECT",
-    text: `SIREN BEAUTY BAR
+    text: `Timadas House
 
 What your client should expect during the healing process:
 
@@ -80,7 +80,7 @@ It is important for your clients to understand the timeline of the healing proce
   },
   {
     title: "FREQUENTLY ASKED QUESTIONS",
-    text: `SIREN BEAUTY BAR
+    text: `Timadas House
 
 IS IT SAFE?
 
@@ -100,7 +100,7 @@ An average appointment for an Ombre Powder Brow service is anywhere from 2-3.5 h
   },
   {
     title: "FREQUENTLY ASKED QUESTIONS",
-    text: `SIREN BEAUTY BAR
+    text: `Timadas House
 
 DOES IT HURT?
 
