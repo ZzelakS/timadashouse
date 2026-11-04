@@ -1,0 +1,46 @@
+{
+  "name": "timadashouse-beauty",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:backend": "convex dev",
+    "build": "node scripts/check-config.mjs && npm run typecheck && vite build",
+    "typecheck": "tsc --noEmit && tsc -p convex/tsconfig.json --noEmit",
+    "preview": "vite preview --port 4173",
+    "check:config": "node scripts/check-config.mjs",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@convex-dev/auth": "^0.0.95",
+    "@fontsource-variable/bodoni-moda": "^5.3.0",
+    "@fontsource-variable/karla": "^5.3.0",
+    "@fontsource/space-mono": "^5.3.0",
+    "convex": "^1.45.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.18.4",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@edge-runtime/vm": "^5.0.0",
+    "@types/node": "^22.20.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/react-test-renderer": "^18.3.1",
+    "@types/three": "^0.170.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "autoprefixer": "^10.4.20",
+    "convex-test": "^0.0.41",
+    "postcss": "^8.4.49",
+    "react-test-renderer": "^18.3.1",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.6.3",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
